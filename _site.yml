@@ -2,9 +2,11 @@ name: my-website
 output_dir: '.'
 navbar:
   title: Climate Data Analysis
-  left: ~
-  text: Home
-  href: index.html
+  left: 
+  - text: Home
+    href: index.html
+  - text: module
+    href: module.html
 output:
   html_document:
     lib_dir: site_libs
