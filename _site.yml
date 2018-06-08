@@ -1,0 +1,12 @@
+name: my-website
+output_dir: '.'
+navbar:
+  title: Climate Data Analysis
+  left: ~
+  text: Home
+  href: index.html
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
+
