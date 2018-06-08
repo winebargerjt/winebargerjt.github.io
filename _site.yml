@@ -6,7 +6,7 @@ navbar:
   - text: Home
     href: index.html
   - text: module
-    href: module.html
+    href: Climate.pdf
 output:
   html_document:
     lib_dir: site_libs
