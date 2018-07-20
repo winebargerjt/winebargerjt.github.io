@@ -1,0 +1,12 @@
+name: TwoYears
+title: TwoYears
+username:
+account: illenyekd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 370301
+bundleId: 1456874
+url: https://illenyekd.shinyapps.io/TwoYears/
+when: 1530298831.56415
+asMultiple: FALSE
+asStatic: FALSE

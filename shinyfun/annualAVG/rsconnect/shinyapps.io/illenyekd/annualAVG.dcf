@@ -1,0 +1,12 @@
+name: annualAVG
+title: annualAVG
+username:
+account: illenyekd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 370375
+bundleId: 1490171
+url: https://illenyekd.shinyapps.io/annualAVG/
+when: 1532035907.20037
+asMultiple: FALSE
+asStatic: FALSE

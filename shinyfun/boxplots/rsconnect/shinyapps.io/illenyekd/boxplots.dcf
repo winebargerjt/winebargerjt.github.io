@@ -1,0 +1,12 @@
+name: boxplots
+title: boxplots
+username:
+account: illenyekd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 370368
+bundleId: 1490106
+url: https://illenyekd.shinyapps.io/boxplots/
+when: 1532033763.01235
+asMultiple: FALSE
+asStatic: FALSE

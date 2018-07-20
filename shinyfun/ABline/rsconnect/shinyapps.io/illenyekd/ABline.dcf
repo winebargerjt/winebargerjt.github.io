@@ -1,0 +1,12 @@
+name: ABline
+title: ABline
+username:
+account: illenyekd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 370049
+bundleId: 1456522
+url: https://illenyekd.shinyapps.io/ABline/
+when: 1530287053.81642
+asMultiple: FALSE
+asStatic: FALSE

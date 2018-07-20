@@ -1,0 +1,12 @@
+name: twoDays
+title: twoDays
+username:
+account: illenyekd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 384875
+bundleId: 1491604
+url: https://illenyekd.shinyapps.io/twoDays/
+when: 1532100884.60808
+asMultiple: FALSE
+asStatic: FALSE
