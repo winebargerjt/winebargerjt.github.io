@@ -1,3 +1,4 @@
+
 ---
 title: "Statistical Exploration of Climate Data"
 author: 
@@ -169,7 +170,7 @@ plot(1:nobsF, Fairbanks$V2, xlab = "Observation", ylab = "Avg. Daily Temp (F)", 
 
 
 ```{r}
-knitr::include_app("https://illenyekd.shinyapps.io/TwoYears/", height = "300px")
+knitr::include_app("https://winebargerjt.shinyapps.io/twoYear/", height = "300px")
 ```
 
 <!-- What are some of the things that you see in this plot? (Is one year obviously warmer or cooler than another? Or other observations?) -->
@@ -190,7 +191,7 @@ knitr::include_app("https://illenyekd.shinyapps.io/TwoYears/", height = "300px")
 ## Boxplots
 
 ```{r}
-knitr::include_app("https://illenyekd.shinyapps.io/boxplots/", height = "300px")
+knitr::include_app("https://winebargerjt.shinyapps.io/boxplots/", height = "300px")
 ```
 
 ## Seasonality
@@ -204,7 +205,7 @@ knitr::include_app("https://illenyekd.shinyapps.io/boxplots/", height = "300px")
 ## Seasonality
 
 ```{r}
-knitr::include_app("https://illenyekd.shinyapps.io/twoDays/", height = "300px")
+knitr::include_app("https://winebargerjt.shinyapps.io/twoDays/", height = "300px")
 ```
 
 ## Intro to time series
@@ -267,7 +268,7 @@ abline(h=0, col = "red")
 ## Average Temperatures
 
 ```{r}
-knitr::include_app("https://illenyekd.shinyapps.io/annualAVG/", height = "300px")
+knitr::include_app("https://winebargerjt.shinyapps.io/annualAVG/", height = "300px")
 ```
 
 ## Final Discussions

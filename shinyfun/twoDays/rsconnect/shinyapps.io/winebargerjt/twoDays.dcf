@@ -1,0 +1,12 @@
+name: twoDays
+title: twoDays
+username:
+account: winebargerjt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 385047
+bundleId: 1492149
+url: https://winebargerjt.shinyapps.io/twoDays/
+when: 1532118487.01238
+asMultiple: FALSE
+asStatic: FALSE

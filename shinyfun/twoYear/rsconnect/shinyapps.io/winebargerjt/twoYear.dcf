@@ -1,0 +1,12 @@
+name: twoYear
+title: twoYear
+username:
+account: winebargerjt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 385050
+bundleId: 1492143
+url: https://winebargerjt.shinyapps.io/twoYear/
+when: 1532118333.85717
+asMultiple: FALSE
+asStatic: FALSE
